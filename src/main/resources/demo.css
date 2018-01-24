@@ -176,7 +176,8 @@ s, del, .missing, del.comment {
 /* Class for link show/hide article */
 .showhide {
 	color: #3e373785;
-        text-decoration: none;
+    text-decoration: none;
 	padding: 2px;
-	font-size: 10px;
+	font-size: 12px;
+	float:right;
 }
