@@ -172,3 +172,11 @@ s, del, .missing, del.comment {
 .missing>.comment {
 	color: #F44336;
 }
+
+/* Class for link show/hide article */
+.showhide {
+	color: #3e373785;
+        text-decoration: none;
+	padding: 2px;
+	font-size: 10px;
+}
